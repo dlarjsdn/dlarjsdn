@@ -1,14 +1,26 @@
-<h1 align="center">Hello 👋 I'm Gunwoo</h1>
-<h3 align="center">Computer Engineering Student | Systems & Semiconductor Enthusiast</h3>
+<h1 align="center">Hello 👋 I'm Geonwoo</h1>
+<h3 align="center">Computer Engineering Student interested in Computer Architecture & Operating Systems</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-- 🎓 Studying **Computer Engineering**
-- 🧠 Interested in **Operating Systems, Databases, System Programming, Semiconductor**
-- 🔧 Enjoy building projects and understanding how systems work internally
-- 🌱 Currently learning **OS kernel concepts, synchronization, DB design**
+- 🎓 Undergraduate student majoring in **Computer Engineering**
+- ⭐ Achieved **A+ in Computer Architecture and OS**
+- 🔍 Strong interest in **GPU architecture, memory hierarchy, and OS internals**
+- ⚙️ Enjoy understanding how software interacts with hardware at low level
+- 📚 Currently studying **multi-core computing, deep learning, advanced computer architecture**
+
+---
+
+### 🔧 Technical Interests
+
+- Computer Architecture  
+- Operating Systems  
+- System Programming  
+- Parallel Processing  
+- Memory Systems  
+- Performance Analysis  
 
 ---
 
@@ -19,37 +31,34 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cpp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 📚 Projects
+### 📚 Academic Projects
 
-- 🧩 **xv6 Scheduler Implementation**  
-  → Modified process scheduling policy and analyzed execution behavior  
+- 🧩 **CPU Pipeline & Hazard Analysis Study**  
+  → Analyzed instruction pipeline behavior and performance bottlenecks  
 
-- 🔁 **Semaphore & Producer-Consumer Problem**  
-  → Implemented synchronization primitives in OS environment  
+- 🧠 **Operating System Scheduling Experiment**  
+  → Explored scheduling policies and process execution characteristics  
 
-- 🗄 **DBMS Design Project**  
-  → Designed relational schema and practiced SQL queries  
+- 💾 **Memory Hierarchy Performance Analysis**  
+  → Studied cache locality, memory access patterns, and execution efficiency  
+
+- 🔁 **Synchronization Mechanism Implementation**  
+  → Practiced mutual exclusion and process coordination concepts  
 
 ---
 
 ### 🌐 Portfolio
 
-👉 **Personal Page:**  
-https://dlarjsdn.github.io  
-
-👉 **GitHub:**  
-https://github.com/dlarjsdn  
+👉 https://dlarjsdn.github.io  
 
 ---
 
-### 📈 GitHub Stats
+### 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlarjsdn&show_icons=true&theme=default"/>
-</p>
+- GitHub: https://github.com/dlarjsdn
